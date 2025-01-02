@@ -1,5 +1,4 @@
-class Alien_Invasion:
-    import sys
+import sys
 import pygame
 from time import sleep
 from settings import Settings
